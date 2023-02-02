@@ -1,8 +1,8 @@
 version: "3"
 services:
   lab:
-    image: jupyter_env:v01 
-    container_name: jpt_container 
+    image: mpxjpn_env:v01 
+    container_name: jpt_container_mpxjpn 
     build:
         context: ./.devcontainer
         dockerfile: ./Dockerfile

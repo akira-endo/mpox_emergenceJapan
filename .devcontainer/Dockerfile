@@ -15,11 +15,12 @@ RUN apt-get update \
  && apt-get clean -y && rm -rf /var/lib/apt/lists/* /tmp/library-scripts
 
 # R packages
-RUN R -e "install.packages('ggpattern', dependencies=TRUE, repos='http://cran.rstudio.com/')"
-RUN R -e "install.packages('igraph', dependencies=TRUE, repos='http://cran.rstudio.com/')"
-RUN R -e "install.packages('ggraph', dependencies=TRUE, repos='http://cran.rstudio.com/')"
-RUN R -e "install.packages('ggmap', dependencies=TRUE, repos='http://cran.rstudio.com/')"
-RUN R -e "install.packages('ggnewscale', dependencies=TRUE, repos='http://cran.rstudio.com/')"
+RUN conda install -c conda-forge r-ggpattern
+RUN conda install -c conda-forge r-igraph
+RUN conda install -c conda-forge r-ggraph
+RUN conda install -c conda-forge r-ggmap
+RUN conda install -c conda-forge r-ggnewscale
+RUN conda install -c conda-forge r-maps
 
 # [Optional] If your pip requirements rarely change, uncomment this section to add them to the image.
 # COPY requirements.txt /tmp/pip-tmp/
