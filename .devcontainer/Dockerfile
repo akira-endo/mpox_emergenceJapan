@@ -14,6 +14,13 @@ RUN apt-get update \
  && bash /tmp/library-scripts/common-debian.sh \
  && apt-get clean -y && rm -rf /var/lib/apt/lists/* /tmp/library-scripts
 
+# R packages
+RUN R -e "install.packages('ggpattern', dependencies=TRUE, repos='http://cran.rstudio.com/')"
+RUN R -e "install.packages('igraph', dependencies=TRUE, repos='http://cran.rstudio.com/')"
+RUN R -e "install.packages('ggraph', dependencies=TRUE, repos='http://cran.rstudio.com/')"
+RUN R -e "install.packages('ggmap', dependencies=TRUE, repos='http://cran.rstudio.com/')"
+RUN R -e "install.packages('ggnewscale', dependencies=TRUE, repos='http://cran.rstudio.com/')"
+
 # [Optional] If your pip requirements rarely change, uncomment this section to add them to the image.
 # COPY requirements.txt /tmp/pip-tmp/
 # RUN pip3 --disable-pip-version-check --no-cache-dir install -r /tmp/pip-tmp/requirements.txt \
