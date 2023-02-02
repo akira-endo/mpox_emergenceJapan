@@ -9,7 +9,11 @@ Case ID,Age,Sex,Symptoms,Date of reporting from MHLW,Date of medical attendance,
 8,40s,Male,"rash, lymphadenopathy , sore throat, malaise",2022/12/21,2022/12/14,Kanagawa,Kanagawa,None,Not available,The patient's condition is stable. The patient is monitored in a hospital.,Not available,https://www.mhlw.go.jp/stf/newpage_29945.html,https://www.mhlw.go.jp/content/10906000/001027521.pdf
 9,30s,Male,"rash, fever, malaise",2023/01/19,2023/01/16,Tokyo,Tokyo,None,Not available,The patient's condition is stable. The patient is monitored in a hospital.,Not available,https://www.mhlw.go.jp/stf/newpage_30346.html,https://www.mhlw.go.jp/content/10906000/001040443.pdf
 10,30s,Male,"rash, fever, lymphadenopathy ",2023/01/25,2023/01/23,Tokyo,Tokyo,None,Not available,The patient's condition is stable. ,Not available,https://www.mhlw.go.jp/stf/newpage_30442.html,https://www.mhlw.go.jp/content/10906000/001043271.pdf
+16,40s,Male,,2023/02/02,2023/01/23,,Tokyo,Asia,Not available,,,,
 11,40s,Male,"rash, fever, lymphadenopathy ",2023/01/26,2023/01/24,Chiba,Chiba,None,Not available,The patient's condition is stable. The patient is monitored in a hospital.,2023/01/14,https://www.mhlw.go.jp/stf/newpage_30493.html,https://www.mhlw.go.jp/content/10906000/001044460.pdf
 12,30s,Male,"fever, rash, malaise, lymphadenopathy ",2023/01/30,2023/01/25,Tokyo,Tokyo,None,Not available,The patient's condition is stable. ,Not available,https://www.mhlw.go.jp/stf/newpage_30559.html,https://www.mhlw.go.jp/content/10906000/001047150.pdf
 13,30s,Male,"rash, fever, sore throat, malaise, headache, lymphadenopathy ",2023/01/30,2023/01/25,Tokyo,Saitama,None,Not available,The patient's condition is stable. ,Not available,https://www.mhlw.go.jp/stf/newpage_30559.html,https://www.mhlw.go.jp/content/10906000/001047150.pdf
 14,20s,Male,"fever, rash",2023/01/30,2023/01/25,Tokyo,Tokyo,None,Not available,The patient's condition is stable. ,Not available,https://www.mhlw.go.jp/stf/newpage_30559.html,https://www.mhlw.go.jp/content/10906000/001047150.pdf
+17,30s,Male,,2023/02/02,2023/01/26,,Tokyo,None,Not available,,,,
+15,30s,Male,,2023/01/31,2023/01/27,,Saitama,None,Not available,,,,
+18,40s,Male,,2023/02/02,2023/01/30,,Tokyo,None,Not available,,,,
