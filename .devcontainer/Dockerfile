@@ -15,12 +15,12 @@ RUN apt-get update \
  && apt-get clean -y && rm -rf /var/lib/apt/lists/* /tmp/library-scripts
 
 # R packages
-RUN conda install -c conda-forge r-ggpattern
-RUN conda install -c conda-forge r-igraph
-RUN conda install -c conda-forge r-ggraph
-RUN conda install -c conda-forge r-ggmap
-RUN conda install -c conda-forge r-ggnewscale
-RUN conda install -c conda-forge r-maps
+RUN conda install -c conda-forge r-ggpattern=1.0.1
+RUN conda install -c conda-forge r-igraph=1.3.5
+RUN conda install -c conda-forge r-ggraph=2.1.0
+RUN conda install -c conda-forge r-ggmap=3.0.1
+RUN conda install -c conda-forge r-ggnewscale=0.4.8
+RUN conda install -c conda-forge r-maps=3.4.1
 
 # [Optional] If your pip requirements rarely change, uncomment this section to add them to the image.
 # COPY requirements.txt /tmp/pip-tmp/
