@@ -16,7 +16,7 @@ RUN apt-get update \
 
 # R packages
 RUN conda install -c conda-forge r-ggpattern=1.0.1
-RUN conda install -c conda-forge r-igraph=1.3.5
+RUN conda install -c conda-forge r-igraph=1.4.1
 RUN conda install -c conda-forge r-ggraph=2.1.0
 RUN conda install -c conda-forge r-ggmap=3.0.1
 RUN conda install -c conda-forge r-ggnewscale=0.4.8
