@@ -14,13 +14,35 @@ RUN apt-get update \
  && bash /tmp/library-scripts/common-debian.sh \
  && apt-get clean -y && rm -rf /var/lib/apt/lists/* /tmp/library-scripts
 
+# Jupyter lab extensions
+RUN conda install -c conda-forge jupyterlab-git -y && \
+    conda install -c conda-forge jupytext -y && \
+    jupyter lab build
+
+# Jupyter lab settings
+RUN printf ' { \
+    "@jupyterlab/shortcuts-extension:shortcuts": {   \
+        "shortcuts":[{"command": "notebook:run-in-console", "keys": ["Alt Space"], "selector": ".jp-Notebook.jp-mod-editMode"}, \
+                     {"command": "runmenu:run", "keys": ["Alt Space"], "selector": "[data-jp-code-runner]"}] \
+    }, \
+    "@jupyterlab/notebook-extension:tracker": {  \
+        "codeCellConfig": { "autoClosingBrackets": true, "lineNumbers": true }  \ 
+    },   \
+    "@jupyterlab/console-extension:tracker": {   \
+        "promptCellConfig": { "autoClosingBrackets": true, "lineNumbers": true }   \
+    },  \
+    "@jupyterlab/docmanager-extension:plugin": {   \
+        "autosave": false   \
+    }  \
+}' > /opt/conda/share/jupyter/lab/settings/overrides.json 
+
 # R packages
-RUN conda install -c conda-forge r-ggpattern=1.0.1
-RUN conda install -c conda-forge r-igraph=1.3.5
-RUN conda install -c conda-forge r-ggraph=2.1.0
-RUN conda install -c conda-forge r-ggmap=3.0.1
-RUN conda install -c conda-forge r-ggnewscale=0.4.8
-RUN conda install -c conda-forge r-maps=3.4.1
+RUN conda install -c conda-forge r-ggpattern=1.0.1 mamba
+RUN conda install -c conda-forge r-igraph=1.4.1 mamba
+RUN conda install -c conda-forge r-ggraph=2.1.0 mamba
+RUN conda install -c conda-forge r-ggmap=3.0.1 mamba
+RUN conda install -c conda-forge r-ggnewscale=0.4.8 mamba
+RUN conda install -c conda-forge r-maps=3.4.1 mamba
 
 # [Optional] If your pip requirements rarely change, uncomment this section to add them to the image.
 # COPY requirements.txt /tmp/pip-tmp/
