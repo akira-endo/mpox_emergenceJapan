@@ -1,8 +1,13 @@
-Country,Date of reporting,Incidence,Travel history,Source
-Taiwan,2023/02/21,1,Europe,https://focustaiwan.tw/society/202302210020
-Taiwan,2023/03/01,2,None,https://focustaiwan.tw/society/202303010013
-Taiwan,2023/03/07,1,None,https://focustaiwan.tw/society/202303070025
-Hong Kong,2023/02/04,1,Japan,https://www.info.gov.hk/gia/general/202302/04/P2023020400530.htm
-Singapore,2023/01/11,2,NA,https://www.moh.gov.sg/docs/librariesprovider5/default-document-library/weekly-infectious-disease-bulletin-ew-1-2023_corrected.pdf
-Thailand,2023/01/30,3,NA,https://worldhealthorg.shinyapps.io/mpx_global/
-India,2023/01/16,2,NA,https://worldhealthorg.shinyapps.io/mpx_global/
+Case ID,Country,Age,Sex,Date of reporting,Travel history,Source
+1,Singapore,Not known,Not known,2023/01/11,Not known,https://www.moh.gov.sg/docs/librariesprovider5/default-document-library/weekly-infectious-disease-bulletin-ew-1-2023_corrected.pdf
+2,Singapore,Not known,Not known,2023/01/11,Not known,https://www.moh.gov.sg/docs/librariesprovider5/default-document-library/weekly-infectious-disease-bulletin-ew-1-2023_corrected.pdf
+3,India,Not known,Not known,2023/01/16,Not known,https://worldhealthorg.shinyapps.io/mpx_global/
+4,India,Not known,Not known,2023/01/16,Not known,https://worldhealthorg.shinyapps.io/mpx_global/
+5,Thailand,Not known,Not known,2023/01/30,Not known,https://worldhealthorg.shinyapps.io/mpx_global/
+6,Thailand,Not known,Not known,2023/01/30,Not known,https://worldhealthorg.shinyapps.io/mpx_global/
+7,Thailand,Not known,Not known,2023/01/30,Not known,https://worldhealthorg.shinyapps.io/mpx_global/
+8,Hong Kong,40s,Male,2023/02/04,Japan,https://www.info.gov.hk/gia/general/202302/04/P2023020400530.htm
+9,Taiwan,30s,Male,2023/02/21,Europe,https://focustaiwan.tw/society/202302210020
+10,Taiwan,20s,Male,2023/03/01,None,https://focustaiwan.tw/society/202303010013
+11,Taiwan,40s,Male,2023/03/01,None,https://focustaiwan.tw/society/202303010013
+12,Taiwan,30s,Male,2023/03/07,None,https://focustaiwan.tw/society/202303070025
