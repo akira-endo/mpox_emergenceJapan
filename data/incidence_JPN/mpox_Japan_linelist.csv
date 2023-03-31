@@ -44,40 +44,40 @@
 43,40s,Male,"fever, rash",2023/03/14,2023/03/09,Tokyo,Saitama,None,Not available,The patient's condition is stable. ,Not available,https://www.mhlw.go.jp/stf/newpage_31901.html,https://www.mhlw.go.jp/content/10906000/001071857.pdf
 44,20s,Male,"fever, rash, headache",2023/03/14,2023/03/08,Tokyo,Tokyo,None,Not available,The patient's condition is stable. ,Not available,https://www.mhlw.go.jp/stf/newpage_31901.html,https://www.mhlw.go.jp/content/10906000/001071857.pdf
 45,40s,Male,"fever, rash",2023/03/14,2023/03/09,Tokyo,Tokyo,None,Not available,The patient's condition is stable. ,Not available,https://www.mhlw.go.jp/stf/newpage_31901.html,https://www.mhlw.go.jp/content/10906000/001071857.pdf
-46,20s,Male,,2023/03/16,2023/03/13,Kanagawa,Kanagawa,None,Not available,The patient's condition is stable. ,Not available,,
-47,30s,Male,,2023/03/20,2023/03/10,Tokyo,Tokyo,None,Not available,The patient's condition is stable. ,Not available,,
-48,30s,Male,,2023/03/20,2023/03/09,Tokyo,Tokyo,None,Not available,The patient's condition is stable. ,Not available,,
-49,30s,Male,,2023/03/20,2023/03/13,Tokyo,Tokyo,None,Not available,The patient's condition is stable. ,Not available,,
-50,40s,Male,,2023/03/20,2023/03/13,Tokyo,Tokyo,None,Not available,The patient's condition is stable. ,Not available,,
-51,20s,Male,,2023/03/20,2023/03/13,Tokyo,Kanagawa,None,Not available,The patient's condition is stable. ,Not available,,
-52,40s,Male,,2023/03/20,2023/03/14,Tokyo,Tokyo,None,Not available,The patient's condition is stable. ,Not available,,
-53,40s,Male,,2023/03/20,2023/03/14,Tokyo,Tokyo,None,Not available,The patient's condition is stable. ,Not available,,
-54,40s,Male,,2023/03/20,2023/03/09,Tokyo,Tokyo,None,Not available,The patient's condition is stable. ,Not available,,
-55,40s,Male,,2023/03/20,2023/03/15,Tokyo,Chiba,None,Not available,The patient's condition is stable. ,Not available,,
-56,40s,Male,,2023/03/20,2023/03/15,Tokyo,Tokyo,None,Not available,The patient's condition is stable. ,Not available,,
-57,50s,Male,,2023/03/20,2023/03/15,Osaka,Osaka,None,Not available,The patient's condition is stable. ,Not available,,
-58,30s,Male,,2023/03/20,2023/03/17,Osaka,Tokushima,None,Not available,The patient's condition is stable. ,Not available,,
-59,40s,Male,,2023/03/20,2023/03/17,Ibraki,Ibraki,None,Not available,The patient's condition is stable. ,Not available,,
-60,40s,Male,,2023/03/24,2023/03/20,Osaka,Osaka,None,Not available,The patient's condition is stable. ,Not available,,
-61,40s,Male,,2023/03/24,2023/03/20,Osaka,Osaka,None,Not available,The patient's condition is stable. ,Not available,,
-62,50s,Male,,2023/03/24,2023/03/22,Osaka,Osaka,None,Not available,The patient's condition is stable. ,Not available,,
-63,20s,Male,,2023/03/24,2023/03/20,Saitama,Saitama,None,Not available,The patient's condition is stable. ,Not available,,
-64,30s,Male,,2023/03/28,2023/03/17,Tokyo,Kanagawa,None,Not available,The patient's condition is stable. ,Not available,,
-65,40s,Male,,2023/03/28,2023/03/17,Tokyo,Kanagawa,None,Not available,The patient's condition is stable. ,Not available,,
-66,30s,Male,asymptomatic,2023/03/28,2023/03/11,Tokyo,Tokyo,None,Not available,Not available,Not available,,
-67,30s,Male,,2023/03/28,2023/03/18,Tokyo,Tokyo,None,Not available,The patient's condition is stable. ,Not available,,
-68,20s,Male,,2023/03/28,2023/03/17,Tokyo,Tokyo,None,Not available,The patient's condition is stable. ,Not available,,
-69,50s,Male,,2023/03/28,2023/03/10,Tokyo,Tokyo,None,Not available,The patient's condition is stable. ,Not available,,
-70,40s,Male,,2023/03/28,2023/03/20,Tokyo,Saitama,None,Not available,The patient's condition is stable. ,Not available,,
-71,30s,Male,,2023/03/28,2023/03/17,Tokyo,Tokyo,None,Not available,The patient's condition is stable. ,Not available,,
-72,30s,Male,,2023/03/28,2023/03/20,Tokyo,Abroad (North and Central America) ,North and Central America,Not available,The patient's condition is stable. ,Not available,,
-73,20s,Male,,2023/03/28,2023/03/20,Tokyo,Tokyo,None,Not available,The patient's condition is stable. ,Not available,,
-74,30s,Male,,2023/03/28,2023/03/22,Tokyo,Tokyo,None,Not available,The patient's condition is stable. ,Not available,,
-75,20s,Male,,2023/03/28,2023/03/23,Tokyo,Saitama,None,Not available,The patient's condition is stable. ,Not available,,
-76,40s,Male,,2023/03/28,2023/03/22,Tokyo,Tokyo,None,Not available,The patient's condition is stable. ,Not available,,
-77,30s,Male,,2023/03/28,2023/03/23,Tokyo,Kanagawa,None,Not available,The patient's condition is stable. ,Not available,,
-78,30s,Male,,2023/03/28,2023/03/23,Tokyo,Tokyo,None,Not available,The patient's condition is stable. ,Not available,,
-79,30s,Male,,2023/03/28,2023/03/22,Osaka,Osaka,None,Not available,The patient's condition is stable. ,Not available,,
-80,30s,Male,,2023/03/28,2023/03/23,Osaka,Osaka,None,Not available,The patient's condition is stable. ,Not available,,
-81,40s,Male,,2023/03/30,2023/03/27,Shizuoka,Shizuoka,None,Not available,The patient's condition is stable. ,Not available,,
-82,40s,Male,,2023/03/30,2023/03/24,Kochi,Kochi,None,Not available,The patient's condition is stable. ,Not available,,
+46,20s,Male,"fever, rash, headache",2023/03/16,2023/03/13,Kanagawa,Kanagawa,None,Not available,The patient's condition is stable. ,Not available,https://www.mhlw.go.jp/stf/newpage_31995.html,https://www.mhlw.go.jp/content/10906000/001073800.pdf
+47,30s,Male,"rash, fever, lymphadenopathy ",2023/03/20,2023/03/10,Tokyo,Tokyo,None,Not available,The patient's condition is stable. ,Not available,https://www.mhlw.go.jp/stf/newpage_32068.html,https://www.mhlw.go.jp/content/10906000/001074915.pdf
+48,30s,Male,"lymphadenopathy, other skin lesions",2023/03/20,2023/03/09,Tokyo,Tokyo,None,Not available,The patient's condition is stable. ,Not available,https://www.mhlw.go.jp/stf/newpage_32068.html,https://www.mhlw.go.jp/content/10906000/001074915.pdf
+49,30s,Male,"fever, rash",2023/03/20,2023/03/13,Tokyo,Tokyo,None,Not available,The patient's condition is stable. ,Not available,https://www.mhlw.go.jp/stf/newpage_32068.html,https://www.mhlw.go.jp/content/10906000/001074915.pdf
+50,40s,Male,"fever, rash",2023/03/20,2023/03/13,Tokyo,Tokyo,None,Not available,The patient's condition is stable. ,Not available,https://www.mhlw.go.jp/stf/newpage_32068.html,https://www.mhlw.go.jp/content/10906000/001074915.pdf
+51,20s,Male,"fever, rash",2023/03/20,2023/03/13,Tokyo,Kanagawa,None,Not available,The patient's condition is stable. ,Not available,https://www.mhlw.go.jp/stf/newpage_32068.html,https://www.mhlw.go.jp/content/10906000/001074915.pdf
+52,40s,Male,"rash, fever, lymphadenopathy ",2023/03/20,2023/03/14,Tokyo,Tokyo,None,Not available,The patient's condition is stable. ,Not available,https://www.mhlw.go.jp/stf/newpage_32068.html,https://www.mhlw.go.jp/content/10906000/001074915.pdf
+53,40s,Male,"fever, rash, muscle pain",2023/03/20,2023/03/14,Tokyo,Tokyo,None,Not available,The patient's condition is stable. ,Not available,https://www.mhlw.go.jp/stf/newpage_32068.html,https://www.mhlw.go.jp/content/10906000/001074915.pdf
+54,40s,Male,asymptomatic,2023/03/20,2023/03/09,Tokyo,Tokyo,None,Not available,The patient's condition is stable. ,Not available,https://www.mhlw.go.jp/stf/newpage_32068.html,https://www.mhlw.go.jp/content/10906000/001074915.pdf
+55,40s,Male,"rash, lymphadenopathy, anorectal pain",2023/03/20,2023/03/15,Tokyo,Chiba,None,Not available,The patient's condition is stable. ,Not available,https://www.mhlw.go.jp/stf/newpage_32068.html,https://www.mhlw.go.jp/content/10906000/001074915.pdf
+56,40s,Male,"rash, fever, malaise, lymphadenopathy ",2023/03/20,2023/03/15,Tokyo,Tokyo,None,Not available,The patient's condition is stable. ,Not available,https://www.mhlw.go.jp/stf/newpage_32068.html,https://www.mhlw.go.jp/content/10906000/001074915.pdf
+57,50s,Male,"rash, fever,  lymphadenopathy ",2023/03/20,2023/03/15,Osaka,Osaka,None,Not available,The patient's condition is stable. ,Not available,https://www.mhlw.go.jp/stf/newpage_32068.html,https://www.mhlw.go.jp/content/10906000/001074916.pdf
+58,30s,Male,"rash, cough",2023/03/20,2023/03/17,Osaka,Tokushima,None,Not available,The patient's condition is stable. ,Not available,https://www.mhlw.go.jp/stf/newpage_32068.html,https://www.mhlw.go.jp/content/10906000/001074916.pdf
+59,40s,Male,"fever, rash, sore throat, anorectal pain, malaise",2023/03/20,2023/03/17,Ibraki,Ibraki,None,Not available,The patient's condition is stable. ,Not available,https://www.mhlw.go.jp/stf/newpage_32068.html,https://www.mhlw.go.jp/content/10906000/001074982.pdf
+60,40s,Male,"rash, malaise",2023/03/24,2023/03/20,Osaka,Osaka,None,Not available,The patient's condition is stable. ,Not available,https://www.mhlw.go.jp/stf/newpage_32200.html,https://www.mhlw.go.jp/content/10906000/001077231.pdf
+61,40s,Male,"rash, fever, lymphadenopathy ",2023/03/24,2023/03/20,Osaka,Osaka,None,Not available,The patient's condition is stable. ,Not available,https://www.mhlw.go.jp/stf/newpage_32200.html,https://www.mhlw.go.jp/content/10906000/001077231.pdf
+62,50s,Male,"rash, fever, lymphadenopathy, anorectal pain",2023/03/24,2023/03/22,Osaka,Osaka,None,Not available,The patient's condition is stable. ,Not available,https://www.mhlw.go.jp/stf/newpage_32200.html,https://www.mhlw.go.jp/content/10906000/001077231.pdf
+63,20s,Male,"rash, fever, lymphadenopathy",2023/03/24,2023/03/20,Saitama,Saitama,None,Not available,The patient's condition is stable. ,Not available,https://www.mhlw.go.jp/stf/newpage_32200.html,https://www.mhlw.go.jp/content/10906000/001077253.pdf
+64,30s,Male,"fever, rash, lymphadenopathy",2023/03/28,2023/03/17,Tokyo,Kanagawa,None,Not available,The patient's condition is stable. ,Not available,https://www.mhlw.go.jp/stf/newpage_32272.html,https://www.mhlw.go.jp/content/10906000/001078468.pdf
+65,40s,Male,"fever, rash",2023/03/28,2023/03/17,Tokyo,Kanagawa,None,Not available,The patient's condition is stable. ,Not available,https://www.mhlw.go.jp/stf/newpage_32272.html,https://www.mhlw.go.jp/content/10906000/001078468.pdf
+66,30s,Male,asymptomatic,2023/03/28,2023/03/11,Tokyo,Tokyo,None,Not available,Not available,Not available,https://www.mhlw.go.jp/stf/newpage_32272.html,https://www.mhlw.go.jp/content/10906000/001078468.pdf
+67,30s,Male,"fever, rash, anorectal pain, lymphadenopathy",2023/03/28,2023/03/18,Tokyo,Tokyo,None,Not available,The patient's condition is stable. ,Not available,https://www.mhlw.go.jp/stf/newpage_32272.html,https://www.mhlw.go.jp/content/10906000/001078468.pdf
+68,20s,Male,"fever, rash",2023/03/28,2023/03/17,Tokyo,Tokyo,None,Not available,The patient's condition is stable. ,Not available,https://www.mhlw.go.jp/stf/newpage_32272.html,https://www.mhlw.go.jp/content/10906000/001078468.pdf
+69,50s,Male,"fever, other skin lesion",2023/03/28,2023/03/10,Tokyo,Tokyo,None,Not available,The patient's condition is stable. ,Not available,https://www.mhlw.go.jp/stf/newpage_32272.html,https://www.mhlw.go.jp/content/10906000/001078468.pdf
+70,40s,Male,"fever, rash, lymphadenopathy",2023/03/28,2023/03/20,Tokyo,Saitama,None,Not available,The patient's condition is stable. ,Not available,https://www.mhlw.go.jp/stf/newpage_32272.html,https://www.mhlw.go.jp/content/10906000/001078468.pdf
+71,30s,Male,"fever, rash, lymphadenopathy",2023/03/28,2023/03/17,Tokyo,Tokyo,None,Not available,The patient's condition is stable. ,Not available,https://www.mhlw.go.jp/stf/newpage_32272.html,https://www.mhlw.go.jp/content/10906000/001078468.pdf
+72,30s,Male,"fever, rash",2023/03/28,2023/03/20,Tokyo,Abroad (North and Central America) ,North and Central America,Not available,The patient's condition is stable. ,Not available,https://www.mhlw.go.jp/stf/newpage_32272.html,https://www.mhlw.go.jp/content/10906000/001078468.pdf
+73,20s,Male,"fever, rash",2023/03/28,2023/03/20,Tokyo,Tokyo,None,Not available,The patient's condition is stable. ,Not available,https://www.mhlw.go.jp/stf/newpage_32272.html,https://www.mhlw.go.jp/content/10906000/001078468.pdf
+74,30s,Male,"fever, rash",2023/03/28,2023/03/22,Tokyo,Tokyo,None,Not available,The patient's condition is stable. ,Not available,https://www.mhlw.go.jp/stf/newpage_32272.html,https://www.mhlw.go.jp/content/10906000/001078468.pdf
+75,20s,Male,"fever, rash",2023/03/28,2023/03/23,Tokyo,Saitama,None,Not available,The patient's condition is stable. ,Not available,https://www.mhlw.go.jp/stf/newpage_32272.html,https://www.mhlw.go.jp/content/10906000/001078468.pdf
+76,40s,Male,"other skin lesion, lymphadenopathy",2023/03/28,2023/03/22,Tokyo,Tokyo,None,Not available,The patient's condition is stable. ,Not available,https://www.mhlw.go.jp/stf/newpage_32272.html,https://www.mhlw.go.jp/content/10906000/001078468.pdf
+77,30s,Male,"fever, rash, sore throat",2023/03/28,2023/03/23,Tokyo,Kanagawa,None,Not available,The patient's condition is stable. ,Not available,https://www.mhlw.go.jp/stf/newpage_32272.html,https://www.mhlw.go.jp/content/10906000/001078468.pdf
+78,30s,Male,"fever, rash, malaise, anorectal pain",2023/03/28,2023/03/23,Tokyo,Tokyo,None,Not available,The patient's condition is stable. ,Not available,https://www.mhlw.go.jp/stf/newpage_32272.html,https://www.mhlw.go.jp/content/10906000/001078468.pdf
+79,30s,Male,"fever, rash, malaise",2023/03/28,2023/03/22,Osaka,Osaka,None,Not available,The patient's condition is stable. ,Not available,https://www.mhlw.go.jp/stf/newpage_32272.html,https://www.mhlw.go.jp/content/10906000/001078469.pdf
+80,30s,Male,"fever, rash, lymphadenopathy",2023/03/28,2023/03/23,Osaka,Osaka,None,Not available,The patient's condition is stable. ,Not available,https://www.mhlw.go.jp/stf/newpage_32272.html,https://www.mhlw.go.jp/content/10906000/001078469.pdf
+81,40s,Male,"rash, edema",2023/03/30,2023/03/27,Shizuoka,Shizuoka,None,Not available,The patient's condition is stable. ,Not available,https://www.mhlw.go.jp/stf/newpage_32370.html,https://www.mhlw.go.jp/content/10906000/001080300.pdf
+82,40s,Male,"fever, rash, diarrhoea",2023/03/30,2023/03/24,Kochi,Kochi,None,Not available,The patient's condition is stable. ,Not available,https://www.mhlw.go.jp/stf/newpage_32370.html,https://www.mhlw.go.jp/content/10906000/001080319.pdf
